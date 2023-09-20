@@ -1,3 +1,10 @@
-!DOCTYPE <html>
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lauttasaari</title>
+</head>
+<body>
+    <h1>Lauttasaari</h1>
+    <p>Lauttasaari sijaitsee Espoon ja Helsingin välillä.</p>
+</body>
 </html>
