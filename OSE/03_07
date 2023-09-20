@@ -4,7 +4,7 @@
 <title>Lauttasaari</title>
 </head>
 <body>
-    <h1>Lauttasaari</h1>
-    <p>Lauttasaari sijaitsee Espoon ja Helsingin välillä.</p>
+    <h1 style="color:blue;">Lauttasaari</h1>
+    <p style="color:red;">Lauttasaari sijaitsee Espoon ja Helsingin välillä.</p>
 </body>
 </html>
